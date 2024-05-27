@@ -1,0 +1,10 @@
+Du skal nå lage ditt eget Monty Hall-program.
+
+Oppgave1.
+Bruk Math.random() for å plassere bilen bak en tilfeldig valgt dør, 
+og når brukeren trykker på en av dørene, vises det som skjuler seg bak den (en geit eller en bil).
+
+Oppgave2.
+Når spiller velger en dør, åpnes en av de to andre dørene som ikke ble valgt (en dør som skjuler en geit). 
+Deretter kan deltageren velge mellom sin opprinnelige dør og den andre uåpnede døren. 
+Utvid koden din slik at dette blir mulig.
